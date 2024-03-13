@@ -56,6 +56,17 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Workana",
+      link: "https://www.workana.com/",
+      badges: [],
+      title: "Freelancer",
+      logo: ParabolLogo,
+      start: "2023",
+      end: "2024",
+      description:
+        "Desenvolvi ferramentas de automação e bots para uso pessoal e de negócios paras plataformas whatsapp, telegram, discord e twitch",
+    },
+    {
       company: "Learn Build Teach",
       link: "https://www.learnbuildteach.com/",
       badges: [],
