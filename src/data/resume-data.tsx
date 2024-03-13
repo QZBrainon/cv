@@ -56,6 +56,17 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Akeefy",
+      link: "https://www.akeefy.com/",
+      badges: [],
+      title: "Freelancer",
+      logo: ParabolLogo,
+      start: "2023",
+      end: "2024",
+      description:
+        "Plataforma de vendas de cursos online e prestação de serviços. Atualmente em desenvolvimento",
+    },
+    {
       company: "Workana",
       link: "https://www.workana.com/",
       badges: [],
