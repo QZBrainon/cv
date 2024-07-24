@@ -27,7 +27,7 @@ export const RESUME_DATA_EN = {
   about:
     "Full Stack Developer focused on building tools that add value to businesses around the world.",
   summary:
-    "As a Full Stack Developer, I've built various applications throughout my learning journey in the tech industry, leading teams with great teamwork and excellent communication skills. Currently, I mainly work with TypeScript, React, Node.js, and Python. I have over 1 year of experience with standard market technologies, having contributed to international and multidisciplinary teams.",
+    "As a Full Stack Developer, I've built various applications throughout my learning journey in the tech industry, leading teams with great teamwork and excellent communication skills. Currently, I mainly work with TypeScript, React, Node.js, and Python. I have over 2 years of experience with standard market technologies, having contributed to international and multidisciplinary teams, both as volunteer and freelancing agent",
   avatarUrl: "https://avatars.githubusercontent.com/u/93778230?v=4",
   personalWebsiteUrl: "https://qzbrainon.dev",
   contact: {
